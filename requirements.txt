@@ -1,0 +1,6 @@
+pillow-heif>=0.13.0
+Pillow>=10.0.0
+tqdm>=4.65.0
+PyQt6>=6.4.0
+darkdetect>=0.8.0
+qt-material>=2.14
